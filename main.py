@@ -158,6 +158,8 @@ class StudentManagementSystem:
             print("No data found")
 
 
+a= StudentManagementSystem()
+a.show_students()
 
  
  
